@@ -1,0 +1,1 @@
+Practicing web design with this basic site built around learning to spot constelllations and other space objects
