@@ -1,0 +1,29 @@
+{
+    "name": "Astro_app",
+    "description": "A starter project for AngularJS based on John Papa's style guide",
+    "keywords": [
+        "AngularJS",
+        "angular",
+        "template",
+        "node",
+        "express"
+    ],
+    "authors": [
+        "QzyzQ"
+    ],
+    "homepage": "https://github.com/QzyzQ/Personal_Astro_Practice",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/QzyzQ/Personal_Astro_Practice.git"
+    },
+    "ignore": [],
+    "dependencies": {
+        "angular": "^1.5.7",
+        "angular-animate": "^1.5.7",
+        "angular-mocks": "^1.5.7",
+        "angular-ui-router": "^0.3.1",
+        "bootstrap": "^3.3.6",
+        "jquery-ui": "^1.11.4"
+    },
+    "private": false
+}
