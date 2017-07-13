@@ -1,6 +1,6 @@
-
-    "name": "Pasta_app",
-    "version": "0.0.4",
+{
+    "name": "Astro_app",
+    "version": "0.0.1",
     "description": "Basic Astronomy Website",
     "keywords": [
         "AngularJS",
@@ -11,15 +11,15 @@
         "node",
         "express"
     ],
-    "homepage": "https://github.com/pamigomp/angularjs-template",
+    "homepage": "https://github.com/QzyzQ/Personal_Astro_Practice",
     "bugs": {
-        "url": "https://github.com/pamigomp/angularjs-template/issues"
+        "url": "https://github.com/QzyzQ/Personal_Astro_Practice/issues"
     },
     "license": "None",
-    "author": "Qz",
+    "author": "QzyzQ",
     "repository": {
         "type": "git",
-        "url": "https://github.com/pamigomp/angularjs-template.git"
+        "url": "https://github.com/QzyzQ/Personal_Astro_Practice.git"
     },
     "main": "server.js",
     "scripts": {
